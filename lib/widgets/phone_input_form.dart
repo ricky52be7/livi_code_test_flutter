@@ -6,7 +6,7 @@ import 'package:code_test/data/repo/twilio_repo.dart';
 import 'package:code_test/data/response/twilio_phonen_umber_response.dart';
 import 'package:code_test/model/country_code.dart';
 import 'package:code_test/model/phone_verification.dart';
-import 'package:code_test/utils/commonUtils.dart';
+import 'package:code_test/utils/common_utils.dart';
 import 'package:code_test/utils/country_code_utils.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
